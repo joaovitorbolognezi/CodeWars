@@ -4,7 +4,13 @@ Soluções dos meus desafios do [Codewars](https://www.codewars.com), resolvidos
  
 ## Desafios resolvidos
  
-| Desafio | Dificuldade |
+| Kyu | Quantidade |
 |---|---|
-| Sum of Two Integers | 6 kyu |
- 
+| 1 kyu | 0 |
+| 2 kyu | 0 |
+| 3 kyu | 0 |
+| 4 kyu | 0 |
+| 5 kyu | 0 |
+| 6 kyu | 1 |
+| 7 kyu | 0 |
+| 8 kyu | 2 |
