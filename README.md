@@ -6,5 +6,5 @@ Soluções dos meus desafios do [Codewars](https://www.codewars.com), resolvidos
  
 | Desafio | Dificuldade |
 |---|---|
-| Sum without plus | 5 kyu |
+| Sum without plus | 6 kyu |
  
