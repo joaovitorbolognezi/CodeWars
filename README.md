@@ -13,4 +13,4 @@ Soluções dos meus desafios do [Codewars](https://www.codewars.com), resolvidos
 | 5 kyu | 0 |
 | 6 kyu | 1 |
 | 7 kyu | 0 |
-| 8 kyu | 4 |
+| 8 kyu | 5 |
