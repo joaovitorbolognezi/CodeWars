@@ -15,7 +15,7 @@ Soluções dos meus desafios do [Codewars](https://www.codewars.com), resolvidos
 | 🟡 4 kyu | 0 |
 | 🟢 5 kyu | 0 |
 | 🔵 6 kyu | 1 |
-| ⚪ 7 kyu | 1 |
+| ⚪ 7 kyu | 2 |
 | ⚫ 8 kyu | 6 |
 
 ---
